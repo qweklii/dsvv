@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Yan please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Ты уверен(а)?",
+    "Действильно уверен(а)?",
+    "Точно точно?",
+    "Пожалуйста...",
+    "Просто подумай об этом!",
+    "Если ты скажешь "нет", мне будет очень грустно...",
+    "Мне будет очень грустно...",
+    "Мне будет очень, очень, очень грустно...",
+    "Хорошо, я перестану спрашивать...",
+    "Шучу, скажи "да", пожалуйста! ❤️"
 ];
 
 let messageIndex = 0;
